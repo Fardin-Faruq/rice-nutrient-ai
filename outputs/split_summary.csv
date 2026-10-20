@@ -1,0 +1,5 @@
+class_name,total_images,train_count,val_count,test_count,train_percent,val_percent,test_percent
+Nitrogen,440,308,66,66,70.0,15.0,15.0
+Phosphorus,333,233,50,50,69.97,15.02,15.02
+Potassium,383,268,57,58,69.97,14.88,15.14
+TOTAL,1156,809,173,174,69.98,14.97,15.05

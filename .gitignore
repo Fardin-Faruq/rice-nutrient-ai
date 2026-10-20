@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local datasets and generated image splits
+data/
+outputs_4class_v1/processed/
+outputs_4class_v1/splits/
+outputs_4class_v1/rice_splits_4class.zip
+rice_splits.zip
+
+# Model artifacts (keep large models out of normal Git history)
+models/
+*.keras
+*.h5
+*.tflite
+*.onnx
+*.pt
+*.pth
+
+# Notebook/runtime and editor files
+.ipynb_checkpoints/
+.vscode/
+
+# Secrets and local environment settings
+.env
+.env.*
+!.env.example
+
+# OS files
+Thumbs.db
+Desktop.ini

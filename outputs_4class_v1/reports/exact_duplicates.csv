@@ -1,0 +1,15 @@
+group_id,sha256,is_cross_class,class_name,file_name,file_path,file_size_bytes
+EXACT_H_001,a3717ffc42e18a3f49f706d1c4abd06c8b0c0f6fffa5069cc51aa66b4569d60c,False,Healthy,HL_183.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_183.jpg,68774
+EXACT_H_001,a3717ffc42e18a3f49f706d1c4abd06c8b0c0f6fffa5069cc51aa66b4569d60c,False,Healthy,HL_347.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_347.jpg,68774
+EXACT_H_002,648783bc4650870a2464cf02c9195f9543e226b73b65f6c7c238e649a8b0e725,False,Healthy,HL_19.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_19.jpg,60263
+EXACT_H_002,648783bc4650870a2464cf02c9195f9543e226b73b65f6c7c238e649a8b0e725,False,Healthy,HL_433.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_433.jpg,60263
+EXACT_H_003,2a28fd577fa6f71ecb4767f74c5641df04767203b13c285944b59c1bcadcbd36,False,Healthy,HL_200.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_200.jpg,377894
+EXACT_H_003,2a28fd577fa6f71ecb4767f74c5641df04767203b13c285944b59c1bcadcbd36,False,Healthy,HL_337.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_337.jpg,377894
+EXACT_H_004,f67d2ae6dd96d6daf9c83dce35ec06681e0e699c8a7e7ca97125b3f9d43f2476,False,Healthy,HL_205.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_205.jpg,66537
+EXACT_H_004,f67d2ae6dd96d6daf9c83dce35ec06681e0e699c8a7e7ca97125b3f9d43f2476,False,Healthy,HL_207.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_207.jpg,66537
+EXACT_H_005,b0c115d802cdbd9d4d29f112ab320b5fba76e1be4ee6ed3a4e230c3c46e3e81b,False,Healthy,HL_216.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_216.jpg,95776
+EXACT_H_005,b0c115d802cdbd9d4d29f112ab320b5fba76e1be4ee6ed3a4e230c3c46e3e81b,False,Healthy,HL_245.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_245.jpg,95776
+EXACT_H_006,ca0e41eb9e860c32211c1b4351fdb138eabf7f658e52a87e1db8e10d7145b4e8,False,Healthy,HL_377.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_377.jpg,181317
+EXACT_H_006,ca0e41eb9e860c32211c1b4351fdb138eabf7f658e52a87e1db8e10d7145b4e8,False,Healthy,HL_378.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_378.jpg,181317
+EXACT_H_007,5331d63f652a93a1558c8a633c7e0a74eccfb80583096690f205856b7eba7511,False,Healthy,HL_384.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_384.jpg,132610
+EXACT_H_007,5331d63f652a93a1558c8a633c7e0a74eccfb80583096690f205856b7eba7511,False,Healthy,HL_387.jpg,data/raw/rice_plant_lacks_nutrients/Healthy(H)/HL_387.jpg,132610

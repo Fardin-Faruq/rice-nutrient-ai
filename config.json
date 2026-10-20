@@ -1,0 +1,26 @@
+{
+  "project_name": "rice-nutrient-ai",
+  "image_width": 96,
+  "image_height": 96,
+  "image_channels": 3,
+  "classes": [
+    "Healthy",
+    "Nitrogen",
+    "Phosphorus",
+    "Potassium"
+  ],
+  "healthy_class_enabled": true,
+  "random_seed": 42,
+  "train_ratio": 0.70,
+  "validation_ratio": 0.15,
+  "test_ratio": 0.15,
+  "confidence_threshold": 0.65,
+  "paths": {
+    "raw": "data/raw",
+    "processed": "data/processed",
+    "splits": "data/splits",
+    "models": "models",
+    "outputs": "outputs",
+    "four_class_output_root": "outputs_4class_v1"
+  }
+}

@@ -1,0 +1,6 @@
+class_name,total_images,train_count,val_count,test_count,train_percent,val_percent,test_percent,target_train_count,target_val_count,target_test_count
+Healthy,603,422,90,91,69.98,14.93,15.09,422,90,91
+Nitrogen,440,308,66,66,70.0,15.0,15.0,,,
+Phosphorus,333,233,50,50,69.97,15.02,15.02,,,
+Potassium,383,268,57,58,69.97,14.88,15.14,,,
+TOTAL,1759,1231,263,265,69.98,14.95,15.07,,,
